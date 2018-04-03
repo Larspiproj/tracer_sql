@@ -1,0 +1,7 @@
+venv/
+__pycache__
+*.pyc
+*.swp
+parameters.txt
+solar.sqlite
+*.gz
