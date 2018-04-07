@@ -1,0 +1,488 @@
+1 2018-04-04 17:36:19
+    Battery Voltage=12.34 Battery Full Voltage=14.45 Battery Overdischarge Voltage=11.07 Battery Temp=21.0 Solar Panel(PV) Voltage=12.35 Charge Current=25.7
+    Load On=True Load Current=0.14 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=True
+2 2018-04-04 18:27:06
+    Battery Voltage=13.6 Battery Full Voltage=14.56 Battery Overdischarge Voltage=10.92 Battery Temp=3.0 Solar Panel(PV) Voltage=0.05 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+3 2018-04-04 18:38:10
+    Battery Voltage=13.68 Battery Full Voltage=14.56 Battery Overdischarge Voltage=10.92 Battery Temp=4.0 Solar Panel(PV) Voltage=0.2 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+4 2018-04-04 18:38:58
+    Battery Voltage=13.68 Battery Full Voltage=14.56 Battery Overdischarge Voltage=10.92 Battery Temp=4.0 Solar Panel(PV) Voltage=0.15 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+5 2018-04-04 18:39:05
+    Battery Voltage=13.6 Battery Full Voltage=14.56 Battery Overdischarge Voltage=10.92 Battery Temp=4.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+6 2018-04-04 18:40:06
+    Battery Voltage=13.62 Battery Full Voltage=14.56 Battery Overdischarge Voltage=10.92 Battery Temp=4.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+7 2018-04-04 18:41:06
+    Battery Voltage=13.64 Battery Full Voltage=14.56 Battery Overdischarge Voltage=10.92 Battery Temp=3.0 Solar Panel(PV) Voltage=0.1 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+8 2018-04-04 18:42:06
+    Battery Voltage=13.66 Battery Full Voltage=14.56 Battery Overdischarge Voltage=10.92 Battery Temp=4.0 Solar Panel(PV) Voltage=0.15 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+9 2018-04-04 18:43:05
+    Battery Voltage=13.62 Battery Full Voltage=14.56 Battery Overdischarge Voltage=10.92 Battery Temp=4.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+10 2018-04-04 18:44:05
+    Battery Voltage=13.62 Battery Full Voltage=14.56 Battery Overdischarge Voltage=10.92 Battery Temp=4.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+11 2018-04-04 19:00:06
+    Battery Voltage=13.6 Battery Full Voltage=14.56 Battery Overdischarge Voltage=10.92 Battery Temp=4.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+12 2018-04-04 20:00:06
+    Battery Voltage=13.66 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+13 2018-04-04 21:00:05
+    Battery Voltage=13.64 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.1 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+14 2018-04-04 22:00:06
+    Battery Voltage=13.66 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+15 2018-04-04 23:00:06
+    Battery Voltage=13.68 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+16 2018-04-05 00:00:05
+    Battery Voltage=13.64 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+17 2018-04-05 01:00:06
+    Battery Voltage=13.64 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+18 2018-04-05 02:00:05
+    Battery Voltage=13.64 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+19 2018-04-05 03:00:06
+    Battery Voltage=13.62 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+20 2018-04-05 04:00:06
+    Battery Voltage=13.62 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.7 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+21 2018-04-05 05:00:06
+    Battery Voltage=13.74 Battery Full Voltage=14.59 Battery Overdischarge Voltage=10.9 Battery Temp=3.0 Solar Panel(PV) Voltage=9.75 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+22 2018-04-05 06:00:06
+    Battery Voltage=13.64 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=12.2 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+23 2018-04-05 07:00:06
+    Battery Voltage=13.64 Battery Full Voltage=14.59 Battery Overdischarge Voltage=10.9 Battery Temp=2.0 Solar Panel(PV) Voltage=13.36 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+24 2018-04-05 07:18:54
+    Battery Voltage=13.66 Battery Full Voltage=14.59 Battery Overdischarge Voltage=10.9 Battery Temp=3.0 Solar Panel(PV) Voltage=13.86 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+25 2018-04-05 08:00:07
+    Battery Voltage=13.66 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=15.06 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=True
+26 2018-04-05 09:00:06
+    Battery Voltage=13.66 Battery Full Voltage=14.54 Battery Overdischarge Voltage=10.92 Battery Temp=5.0 Solar Panel(PV) Voltage=16.01 Charge Current=0.03
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=True
+27 2018-04-05 10:00:05
+    Battery Voltage=13.66 Battery Full Voltage=14.54 Battery Overdischarge Voltage=10.92 Battery Temp=5.0 Solar Panel(PV) Voltage=15.96 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=True
+28 2018-04-05 11:00:06
+    Battery Voltage=13.68 Battery Full Voltage=14.52 Battery Overdischarge Voltage=10.93 Battery Temp=6.0 Solar Panel(PV) Voltage=16.01 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=True
+29 2018-04-05 12:00:06
+    Battery Voltage=13.66 Battery Full Voltage=14.54 Battery Overdischarge Voltage=10.92 Battery Temp=6.0 Solar Panel(PV) Voltage=16.66 Charge Current=0.02
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=True
+30 2018-04-05 13:00:06
+    Battery Voltage=13.68 Battery Full Voltage=14.52 Battery Overdischarge Voltage=10.93 Battery Temp=6.0 Solar Panel(PV) Voltage=17.06 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=True
+31 2018-04-05 14:00:06
+    Battery Voltage=13.74 Battery Full Voltage=14.54 Battery Overdischarge Voltage=10.92 Battery Temp=5.0 Solar Panel(PV) Voltage=15.41 Charge Current=0.03
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=True
+32 2018-04-05 15:00:06
+    Battery Voltage=13.64 Battery Full Voltage=14.52 Battery Overdischarge Voltage=10.93 Battery Temp=5.0 Solar Panel(PV) Voltage=14.51 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=True
+33 2018-04-05 16:00:05
+    Battery Voltage=13.64 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=12.51 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+34 2018-04-05 17:00:06
+    Battery Voltage=13.62 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=9.75 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+35 2018-04-05 18:00:06
+    Battery Voltage=13.64 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=2.05 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+36 2018-04-05 18:16:31
+    Battery Voltage=13.72 Battery Full Voltage=14.58 Battery Overdischarge Voltage=10.9 Battery Temp=4.0 Solar Panel(PV) Voltage=1.05 Charge Current=0.0
+    Load On=True Load Current=0.24 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+37 2018-04-05 19:00:05
+    Battery Voltage=13.64 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+38 2018-04-05 20:00:06
+    Battery Voltage=13.72 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.1 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+39 2018-04-05 21:00:06
+    Battery Voltage=13.68 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.15 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+40 2018-04-05 22:00:06
+    Battery Voltage=13.66 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+41 2018-04-05 23:00:06
+    Battery Voltage=13.68 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.15 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+42 2018-04-06 00:00:06
+    Battery Voltage=13.64 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+43 2018-04-06 01:00:06
+    Battery Voltage=13.72 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+44 2018-04-06 02:00:05
+    Battery Voltage=13.68 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+45 2018-04-06 03:00:06
+    Battery Voltage=13.66 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=2.0 Solar Panel(PV) Voltage=0.05 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+46 2018-04-06 04:00:05
+    Battery Voltage=13.64 Battery Full Voltage=14.59 Battery Overdischarge Voltage=10.9 Battery Temp=3.0 Solar Panel(PV) Voltage=1.45 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+47 2018-04-06 05:00:06
+    Battery Voltage=13.64 Battery Full Voltage=14.59 Battery Overdischarge Voltage=10.9 Battery Temp=2.0 Solar Panel(PV) Voltage=9.75 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+48 2018-04-06 06:00:05
+    Battery Voltage=13.72 Battery Full Voltage=14.59 Battery Overdischarge Voltage=10.9 Battery Temp=2.0 Solar Panel(PV) Voltage=13.16 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+49 2018-04-06 07:00:06
+    Battery Voltage=13.74 Battery Full Voltage=14.56 Battery Overdischarge Voltage=10.92 Battery Temp=5.0 Solar Panel(PV) Voltage=16.56 Charge Current=0.04
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=True
+50 2018-04-06 08:00:06
+    Battery Voltage=13.68 Battery Full Voltage=14.54 Battery Overdischarge Voltage=10.92 Battery Temp=5.0 Solar Panel(PV) Voltage=17.46 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=True
+51 2018-04-06 09:00:06
+    Battery Voltage=13.72 Battery Full Voltage=14.52 Battery Overdischarge Voltage=10.93 Battery Temp=5.0 Solar Panel(PV) Voltage=16.21 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=True
+52 2018-04-06 10:00:06
+    Battery Voltage=13.68 Battery Full Voltage=14.52 Battery Overdischarge Voltage=10.93 Battery Temp=6.0 Solar Panel(PV) Voltage=18.26 Charge Current=0.04
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=True
+53 2018-04-06 11:00:05
+    Battery Voltage=13.76 Battery Full Voltage=14.52 Battery Overdischarge Voltage=10.93 Battery Temp=6.0 Solar Panel(PV) Voltage=18.31 Charge Current=0.05
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=True
+54 2018-04-06 12:00:06
+    Battery Voltage=13.74 Battery Full Voltage=14.52 Battery Overdischarge Voltage=10.93 Battery Temp=6.0 Solar Panel(PV) Voltage=15.71 Charge Current=0.04
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=True
+55 2018-04-06 13:00:05
+    Battery Voltage=13.68 Battery Full Voltage=14.52 Battery Overdischarge Voltage=10.93 Battery Temp=6.0 Solar Panel(PV) Voltage=17.61 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=True
+56 2018-04-06 14:00:06
+    Battery Voltage=13.74 Battery Full Voltage=14.52 Battery Overdischarge Voltage=10.93 Battery Temp=6.0 Solar Panel(PV) Voltage=18.46 Charge Current=0.03
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=True
+57 2018-04-06 15:00:05
+    Battery Voltage=13.72 Battery Full Voltage=14.54 Battery Overdischarge Voltage=10.92 Battery Temp=5.0 Solar Panel(PV) Voltage=16.41 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=True
+58 2018-04-06 16:00:06
+    Battery Voltage=13.64 Battery Full Voltage=14.56 Battery Overdischarge Voltage=10.92 Battery Temp=4.0 Solar Panel(PV) Voltage=9.65 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+59 2018-04-06 17:00:06
+    Battery Voltage=13.66 Battery Full Voltage=14.56 Battery Overdischarge Voltage=10.92 Battery Temp=4.0 Solar Panel(PV) Voltage=9.25 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+60 2018-04-06 17:04:21
+    Battery Voltage=13.66 Battery Full Voltage=14.56 Battery Overdischarge Voltage=10.92 Battery Temp=4.0 Solar Panel(PV) Voltage=10.55 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+61 2018-04-06 17:14:08
+    Battery Voltage=13.68 Battery Full Voltage=14.56 Battery Overdischarge Voltage=10.92 Battery Temp=4.0 Solar Panel(PV) Voltage=9.85 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+62 2018-04-06 17:16:59
+    Battery Voltage=13.64 Battery Full Voltage=14.56 Battery Overdischarge Voltage=10.92 Battery Temp=4.0 Solar Panel(PV) Voltage=9.55 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+63 2018-04-06 17:17:23
+    Battery Voltage=13.74 Battery Full Voltage=14.56 Battery Overdischarge Voltage=10.92 Battery Temp=4.0 Solar Panel(PV) Voltage=9.55 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+64 2018-04-06 17:18:42
+    Battery Voltage=13.72 Battery Full Voltage=14.56 Battery Overdischarge Voltage=10.92 Battery Temp=4.0 Solar Panel(PV) Voltage=9.5 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+65 2018-04-06 18:00:06
+    Battery Voltage=13.64 Battery Full Voltage=14.56 Battery Overdischarge Voltage=10.92 Battery Temp=4.0 Solar Panel(PV) Voltage=3.75 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+66 2018-04-06 19:00:06
+    Battery Voltage=13.68 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.05 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+67 2018-04-06 19:51:45
+    Battery Voltage=13.66 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+68 2018-04-06 19:53:43
+    Battery Voltage=13.64 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+69 2018-04-06 19:54:36
+    Battery Voltage=13.68 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.1 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+70 2018-04-06 20:00:05
+    Battery Voltage=13.66 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+71 2018-04-06 20:12:42
+    Battery Voltage=13.64 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+72 2018-04-06 20:13:42
+    Battery Voltage=13.64 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+73 2018-04-06 20:23:10
+    Battery Voltage=13.74 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+74 2018-04-06 20:36:59
+    Battery Voltage=13.64 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+75 2018-04-06 20:39:02
+    Battery Voltage=13.64 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+76 2018-04-06 20:40:39
+    Battery Voltage=13.74 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.1 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+77 2018-04-06 20:42:03
+    Battery Voltage=13.68 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.15 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+78 2018-04-06 20:45:29
+    Battery Voltage=13.64 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+79 2018-04-06 20:46:34
+    Battery Voltage=13.64 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.05 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+80 2018-04-06 20:48:17
+    Battery Voltage=13.66 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+81 2018-04-06 20:49:39
+    Battery Voltage=13.64 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+82 2018-04-06 20:51:20
+    Battery Voltage=13.72 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.15 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+83 2018-04-06 20:52:10
+    Battery Voltage=13.64 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+84 2018-04-06 20:54:43
+    Battery Voltage=13.66 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+85 2018-04-06 20:56:15
+    Battery Voltage=13.66 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+86 2018-04-06 20:58:27
+    Battery Voltage=13.74 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.2 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+87 2018-04-06 21:00:06
+    Battery Voltage=13.72 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.15 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+88 2018-04-06 21:00:49
+    Battery Voltage=13.64 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+89 2018-04-06 21:05:16
+    Battery Voltage=13.66 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+90 2018-04-06 21:06:02
+    Battery Voltage=13.72 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+91 2018-04-06 21:07:31
+    Battery Voltage=13.64 Battery Full Voltage=14.59 Battery Overdischarge Voltage=10.9 Battery Temp=2.0 Solar Panel(PV) Voltage=0.05 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+92 2018-04-06 21:09:36
+    Battery Voltage=13.66 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=2.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+93 2018-04-06 21:12:57
+    Battery Voltage=13.64 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=2.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+94 2018-04-06 22:00:05
+    Battery Voltage=13.74 Battery Full Voltage=14.59 Battery Overdischarge Voltage=10.9 Battery Temp=2.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+95 2018-04-06 23:00:06
+    Battery Voltage=13.62 Battery Full Voltage=14.59 Battery Overdischarge Voltage=10.9 Battery Temp=2.0 Solar Panel(PV) Voltage=0.05 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+96 2018-04-07 00:00:06
+    Battery Voltage=13.68 Battery Full Voltage=14.59 Battery Overdischarge Voltage=10.9 Battery Temp=2.0 Solar Panel(PV) Voltage=0.05 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+97 2018-04-07 01:00:06
+    Battery Voltage=13.64 Battery Full Voltage=14.59 Battery Overdischarge Voltage=10.9 Battery Temp=2.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+98 2018-04-07 02:00:06
+    Battery Voltage=13.72 Battery Full Voltage=14.61 Battery Overdischarge Voltage=10.89 Battery Temp=1.0 Solar Panel(PV) Voltage=0.0 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+99 2018-04-07 03:00:06
+    Battery Voltage=13.64 Battery Full Voltage=14.61 Battery Overdischarge Voltage=10.89 Battery Temp=1.0 Solar Panel(PV) Voltage=0.05 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+100 2018-04-07 04:00:06
+    Battery Voltage=13.68 Battery Full Voltage=14.61 Battery Overdischarge Voltage=10.89 Battery Temp=1.0 Solar Panel(PV) Voltage=2.1 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+101 2018-04-07 05:00:06
+    Battery Voltage=13.68 Battery Full Voltage=14.63 Battery Overdischarge Voltage=10.88 Battery Temp=1.0 Solar Panel(PV) Voltage=11.1 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+102 2018-04-07 06:00:06
+    Battery Voltage=13.64 Battery Full Voltage=14.63 Battery Overdischarge Voltage=10.88 Battery Temp=0.0 Solar Panel(PV) Voltage=14.11 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+103 2018-04-07 07:00:05
+    Battery Voltage=13.72 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=2.0 Solar Panel(PV) Voltage=16.31 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=True
+104 2018-04-07 08:00:06
+    Battery Voltage=13.72 Battery Full Voltage=14.57 Battery Overdischarge Voltage=10.91 Battery Temp=3.0 Solar Panel(PV) Voltage=16.76 Charge Current=0.0
+    Load On=False Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=True
+105 2018-04-07 10:05:45
+    Battery Voltage=13.64 Battery Full Voltage=14.54 Battery Overdischarge Voltage=10.92 Battery Temp=5.0 Solar Panel(PV) Voltage=18.71 Charge Current=0.0
+    Load On=True Load Current=0.06 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=True
+106 2018-04-07 11:00:05
+    Battery Voltage=13.76 Battery Full Voltage=14.56 Battery Overdischarge Voltage=10.92 Battery Temp=4.0 Solar Panel(PV) Voltage=16.01 Charge Current=0.02
+    Load On=True Load Current=0.1 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=True
+107 2018-04-07 12:00:06
+    Battery Voltage=13.74 Battery Full Voltage=14.54 Battery Overdischarge Voltage=10.92 Battery Temp=5.0 Solar Panel(PV) Voltage=17.51 Charge Current=0.0
+    Load On=True Load Current=0.03 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=True
+108 2018-04-07 13:00:05
+    Battery Voltage=13.72 Battery Full Voltage=14.54 Battery Overdischarge Voltage=10.92 Battery Temp=5.0 Solar Panel(PV) Voltage=17.66 Charge Current=0.0
+    Load On=True Load Current=0.08 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=True
+109 2018-04-07 14:00:06
+    Battery Voltage=13.74 Battery Full Voltage=14.54 Battery Overdischarge Voltage=10.92 Battery Temp=5.0 Solar Panel(PV) Voltage=16.81 Charge Current=0.0
+    Load On=True Load Current=0.0 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=True
+110 2018-04-07 15:00:06
+    Battery Voltage=13.76 Battery Full Voltage=14.54 Battery Overdischarge Voltage=10.92 Battery Temp=6.0 Solar Panel(PV) Voltage=15.86 Charge Current=0.0
+    Load On=True Load Current=0.07 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=True
+111 2018-04-07 15:27:12
+    Battery Voltage=13.76 Battery Full Voltage=14.54 Battery Overdischarge Voltage=10.92 Battery Temp=6.0 Solar Panel(PV) Voltage=14.96 Charge Current=0.0
+    Load On=True Load Current=0.08 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=True
+112 2018-04-07 15:31:21
+    Battery Voltage=13.76 Battery Full Voltage=14.54 Battery Overdischarge Voltage=10.92 Battery Temp=5.0 Solar Panel(PV) Voltage=14.21 Charge Current=0.05
+    Load On=True Load Current=0.08 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=True
+113 2018-04-07 15:53:40
+    Battery Voltage=13.78 Battery Full Voltage=14.56 Battery Overdischarge Voltage=10.91 Battery Temp=4.0 Solar Panel(PV) Voltage=14.26 Charge Current=0.0
+    Load On=True Load Current=0.09 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+114 2018-04-07 15:57:06
+    Battery Voltage=13.78 Battery Full Voltage=14.56 Battery Overdischarge Voltage=10.92 Battery Temp=4.0 Solar Panel(PV) Voltage=14.61 Charge Current=0.0
+    Load On=True Load Current=0.06 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+115 2018-04-07 15:59:37
+    Battery Voltage=13.74 Battery Full Voltage=14.56 Battery Overdischarge Voltage=10.91 Battery Temp=4.0 Solar Panel(PV) Voltage=14.51 Charge Current=0.0
+    Load On=True Load Current=0.03 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+116 2018-04-07 16:00:06
+    Battery Voltage=13.74 Battery Full Voltage=14.56 Battery Overdischarge Voltage=10.91 Battery Temp=4.0 Solar Panel(PV) Voltage=14.36 Charge Current=0.0
+    Load On=True Load Current=0.09 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+117 2018-04-07 17:00:06
+    Battery Voltage=13.68 Battery Full Voltage=14.56 Battery Overdischarge Voltage=10.91 Battery Temp=4.0 Solar Panel(PV) Voltage=10.85 Charge Current=0.0
+    Load On=True Load Current=0.07 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+118 2018-04-07 17:21:38
+    Battery Voltage=13.74 Battery Full Voltage=14.56 Battery Overdischarge Voltage=10.92 Battery Temp=4.0 Solar Panel(PV) Voltage=9.1 Charge Current=0.0
+    Load On=True Load Current=0.1 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+119 2018-04-07 17:27:13
+    Battery Voltage=13.74 Battery Full Voltage=14.56 Battery Overdischarge Voltage=10.91 Battery Temp=4.0 Solar Panel(PV) Voltage=8.4 Charge Current=0.0
+    Load On=True Load Current=0.08 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+120 2018-04-07 17:29:55
+    Battery Voltage=13.72 Battery Full Voltage=14.56 Battery Overdischarge Voltage=10.91 Battery Temp=4.0 Solar Panel(PV) Voltage=7.6 Charge Current=0.0
+    Load On=True Load Current=0.09 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+121 2018-04-07 17:30:42
+    Battery Voltage=13.76 Battery Full Voltage=14.56 Battery Overdischarge Voltage=10.91 Battery Temp=4.0 Solar Panel(PV) Voltage=7.5 Charge Current=0.0
+    Load On=True Load Current=0.03 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
+122 2018-04-07 17:31:09
+    Battery Voltage=13.74 Battery Full Voltage=14.56 Battery Overdischarge Voltage=10.91 Battery Temp=4.0 Solar Panel(PV) Voltage=7.25 Charge Current=0.0
+    Load On=True Load Current=0.08 Load Overloaded=False Load Short=False Battery Overloaded=False Battery Overdischarged=False Battery Full=False
+    Battery Charging=False
